@@ -21,7 +21,7 @@ O diagrama abaixo detalha a interação entre a camada de recuperação vetorial
 Implementamos o módulo **MIA (Módulo de Inteligência Analítica)**, que gera o *Relatório de Dúvidas Recorrentes (RDR v1)*. Isso permite que o professor ajuste o plano de ensino com base nas lacunas reais de aprendizado da turma.
 
 *Exemplo de insight gerado pelo sistema:*
-![Relatório RDR v1](images/exemplo_rdr_v1.png) *(Substitua por um print de um trecho do seu relatório)*
+![Relatório RDR v1](images/exemplo_rdr_v1.png)
 
 ## 🛠️ Stack Tecnológica
 - **Backend:** Python (FastAPI)
